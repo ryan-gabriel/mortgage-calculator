@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer
-      className="absolute bottom-0 left-0 right-0 bg-white border-t border-[#E1E4E8] mt-12 py-6 text-center text-[#6C757D]"
+      className="bg-white border-t border-[#E1E4E8] mt-12 py-6 text-center text-[#6C757D]"
       style={{
         fontFamily: "'Inter', 'Roboto', Arial, sans-serif",
         fontSize: "14px",
